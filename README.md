@@ -1,6 +1,6 @@
-#Larn React by Practice
+# Learn React by Practice
 
-##Coding while lerning react from Max in udemy [React App](https://www.udemy.com/react-the-complete-guide-incl-redux/)
+## Coding while lerning react from Max in udemy [React App](https://www.udemy.com/react-the-complete-guide-incl-redux/)
 
 ---
 
